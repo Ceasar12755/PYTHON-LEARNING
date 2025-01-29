@@ -1,0 +1,2 @@
+t= 'mabuhay'
+print(t)
